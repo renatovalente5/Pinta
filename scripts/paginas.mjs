@@ -89,8 +89,13 @@ function amostraFamilia(f, i = 0) {
 function grupos(p) { return [...new Set(p.coresDet.map((c) => c.grupo))]; }
 function cartaoProduto(p, i = 0) {
   const c = corPrincipal(p);
+  // Para cada grupo de cor, o tom do produto mais perto da amostra do grupo (no
+  // filtro «Azuis» vê-se o azul royal, não o marinho que vem primeiro na lista).
   const porGrupo = {};
-  for (const x of p.coresDet) if (!porGrupo[x.grupo]) porGrupo[x.grupo] = x;
+  for (const x of p.coresDet) {
+    const amostra = GRUPOS_COR.find((g) => g.chave === x.grupo)?.amostra || x.hex;
+    if (!porGrupo[x.grupo] || dist(x.hex, amostra) < dist(porGrupo[x.grupo].hex, amostra)) porGrupo[x.grupo] = x;
+  }
   const vars = Object.entries(porGrupo).map(([g, x]) => `--cor-${g}:${x.hex}`).join(';');
   const porGrupoAttr = Object.entries(porGrupo).map(([g, x]) => ` data-g-${g}="${x.chave}"`).join('');
   const dentro = p.corAlvo === 'dentro';
