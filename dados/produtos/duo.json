@@ -1,0 +1,64 @@
+{
+ "slug": "duo",
+ "familia": "canecas",
+ "nome": "Duo",
+ "tipo": "Caneca",
+ "desenho": "caneca",
+ "corAlvo": "dentro",
+ "frase": "Branca por fora, cor por dentro.",
+ "descricao": "Caneca de cerâmica branca com o interior e a asa da cor que escolher. Impressa a cores por sublimação.",
+ "cores": [
+  "preto",
+  "azul-royal",
+  "vermelho",
+  "verde",
+  "amarelo",
+  "laranja",
+  "rosa",
+  "turquesa"
+ ],
+ "quantidades": [
+  {
+   "q": 12,
+   "preco": 79
+  },
+  {
+   "q": 24,
+   "preco": 144
+  },
+  {
+   "q": 48,
+   "preco": 262
+  },
+  {
+   "q": 96,
+   "preco": 485
+  }
+ ],
+ "opcoes": [
+  {
+   "grupo": "Impressão",
+   "opcoes": [
+    {
+     "nome": "Uma face",
+     "acrescimo": 0
+    },
+    {
+     "nome": "Volta inteira",
+     "acrescimo": 0.8
+    }
+   ]
+  }
+ ],
+ "areas": {
+  "Frente": "até 9 × 8 cm"
+ },
+ "especificacoes": {
+  "Material": "Cerâmica",
+  "Capacidade": "330 ml",
+  "Lava-loiça": "Sim",
+  "Mínimo": "12 unidades"
+ },
+ "ordem": 32,
+ "titulo": "Caneca Duo"
+}

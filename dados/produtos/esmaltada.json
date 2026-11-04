@@ -1,0 +1,57 @@
+{
+ "slug": "esmaltada",
+ "familia": "canecas",
+ "nome": "Esmaltada 350 ml",
+ "tipo": "Caneca",
+ "desenho": "caneca-esmaltada",
+ "frase": "Metal esmaltado, para o campo.",
+ "descricao": "Caneca de metal esmaltado com aro de inox. Leve, inquebrável e com ar de campismo.",
+ "cores": [
+  "branco",
+  "preto",
+  "azul-marinho",
+  "verde-garrafa",
+  "vermelho",
+  "mostarda"
+ ],
+ "quantidades": [
+  {
+   "q": 12,
+   "preco": 98
+  },
+  {
+   "q": 24,
+   "preco": 183
+  },
+  {
+   "q": 48,
+   "preco": 342
+  },
+  {
+   "q": 96,
+   "preco": 640
+  }
+ ],
+ "opcoes": [
+  {
+   "grupo": "Impressão",
+   "opcoes": [
+    {
+     "nome": "Uma face",
+     "acrescimo": 0
+    }
+   ]
+  }
+ ],
+ "areas": {
+  "Frente": "até 8 × 7 cm"
+ },
+ "especificacoes": {
+  "Material": "Aço esmaltado",
+  "Capacidade": "350 ml",
+  "Lava-loiça": "Lavar à mão",
+  "Mínimo": "12 unidades"
+ },
+ "ordem": 33,
+ "titulo": "Caneca esmaltada 350 ml"
+}

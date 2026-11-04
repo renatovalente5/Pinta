@@ -1,0 +1,65 @@
+{
+ "slug": "ceramica",
+ "familia": "canecas",
+ "nome": "Cerâmica 330 ml",
+ "tipo": "Caneca",
+ "desenho": "caneca",
+ "frase": "A caneca de sempre, a cores.",
+ "descricao": "Caneca de cerâmica de 330 ml impressa a cores por sublimação. Aguenta a máquina de lavar loiça e o micro-ondas.",
+ "cores": [
+  "branco",
+  "preto",
+  "azul-royal",
+  "azul-marinho",
+  "vermelho",
+  "verde",
+  "amarelo",
+  "laranja",
+  "rosa",
+  "turquesa"
+ ],
+ "quantidades": [
+  {
+   "q": 12,
+   "preco": 69
+  },
+  {
+   "q": 24,
+   "preco": 126
+  },
+  {
+   "q": 48,
+   "preco": 228
+  },
+  {
+   "q": 96,
+   "preco": 420
+  }
+ ],
+ "opcoes": [
+  {
+   "grupo": "Impressão",
+   "opcoes": [
+    {
+     "nome": "Uma face",
+     "acrescimo": 0
+    },
+    {
+     "nome": "Volta inteira",
+     "acrescimo": 0.8
+    }
+   ]
+  }
+ ],
+ "areas": {
+  "Frente": "até 9 × 8 cm"
+ },
+ "especificacoes": {
+  "Material": "Cerâmica",
+  "Capacidade": "330 ml",
+  "Lava-loiça": "Sim",
+  "Mínimo": "12 unidades"
+ },
+ "ordem": 31,
+ "titulo": "Caneca de cerâmica 330 ml"
+}

@@ -1,0 +1,383 @@
+[
+ {
+  "slug": "canetas",
+  "nome": "Canetas",
+  "grupo": "Escrita",
+  "icone": "caneta",
+  "singular": "caneta",
+  "artigo": "a",
+  "desenhos": [
+   "caneta-touch",
+   "caneta-bambu",
+   "caneta-clique"
+  ],
+  "coresCapa": [
+   "#CB1964",
+   "#FFC83D",
+   "#151A33"
+  ],
+  "frase": "Alumínio, bambu ou metal, gravadas a laser com o seu logótipo.",
+  "sublinhado": "tinta",
+  "vantagens": [
+   "Gravação a laser incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Pronto 5 a 7 dias úteis após a maquete"
+  ],
+  "filtros": {
+   "tinta": true
+  },
+  "duvidas": [
+   {
+    "p": "A gravação está incluída no preço?",
+    "r": "Sim. O preço de cada quantidade já inclui a gravação a laser de uma face e os portes para Portugal Continental."
+   },
+   {
+    "p": "Que tinta têm as canetas?",
+    "r": "Cada modelo diz a cor da tinta na ficha: azul ou preta. Para outra tinta, pergunte-nos."
+   },
+   {
+    "p": "A gravação a laser sai a cores?",
+    "r": "Não: o laser tira a camada de cor e deixa à vista o metal, por isso o logótipo fica num tom claro e não sai com o tempo. Para cores, escolha a impressão UV."
+   }
+  ],
+  "h1": {
+   "antes": "Canetas",
+   "destaque": "personalizadas"
+  }
+ },
+ {
+  "slug": "t-shirts",
+  "nome": "T-shirts",
+  "grupo": "Têxtil",
+  "icone": "tshirt",
+  "singular": "t-shirt",
+  "artigo": "a",
+  "desenhos": [
+   "tshirt",
+   "tshirt-tecnica",
+   "tshirt"
+  ],
+  "coresCapa": [
+   "#FFC83D",
+   "#151A33",
+   "#0A8FC2"
+  ],
+  "frase": "Do algodão leve ao premium, em mais de 20 cores.",
+  "sublinhado": "costura",
+  "vantagens": [
+   "Impressão a cores incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Tamanhos do XS ao 3XL"
+  ],
+  "filtros": {
+   "cor": true
+  },
+  "duvidas": [
+   {
+    "p": "Posso misturar tamanhos na mesma encomenda?",
+    "r": "Pode. A quantidade conta as t-shirts do mesmo modelo e cor, em todos os tamanhos."
+   },
+   {
+    "p": "Que tamanho de impressão está incluído?",
+    "r": "Até A4 na frente. Nas costas, escolha «Frente e costas»."
+   },
+   {
+    "p": "A impressão aguenta lavagens?",
+    "r": "Sim. A impressão DTF aguenta lavagens a 40 °C do avesso, sem secar na máquina."
+   }
+  ],
+  "h1": {
+   "antes": "T-shirts",
+   "destaque": "personalizadas"
+  }
+ },
+ {
+  "slug": "polos",
+  "nome": "Polos",
+  "grupo": "Têxtil",
+  "icone": "polo",
+  "singular": "polo",
+  "artigo": "o",
+  "desenhos": [
+   "polo",
+   "polo-ml",
+   "polo"
+  ],
+  "coresCapa": [
+   "#151A33",
+   "#CB1964",
+   "#FFFFFF"
+  ],
+  "frase": "Piqué de manga curta ou comprida, com bordado no peito.",
+  "sublinhado": "costura",
+  "vantagens": [
+   "Bordado no peito incluído",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Tamanhos do XS ao 3XL"
+  ],
+  "filtros": {
+   "cor": true
+  },
+  "duvidas": [
+   {
+    "p": "O bordado tem limite de cores?",
+    "r": "Até 8 cores de linha no peito estão incluídas. Para mais, enviamos a maquete com as opções."
+   },
+   {
+    "p": "Posso pôr o nome de cada pessoa?",
+    "r": "Pode. Diga-nos na mensagem: cada nome tem um pequeno acréscimo, que vai na proposta."
+   }
+  ],
+  "h1": {
+   "antes": "Polos",
+   "destaque": "bordados"
+  }
+ },
+ {
+  "slug": "sweatshirts",
+  "nome": "Sweatshirts",
+  "grupo": "Têxtil",
+  "icone": "hoodie",
+  "singular": "sweatshirt",
+  "artigo": "a",
+  "desenhos": [
+   "hoodie",
+   "sweat",
+   "hoodie"
+  ],
+  "coresCapa": [
+   "#0A8FC2",
+   "#FFC83D",
+   "#151A33"
+  ],
+  "frase": "Com ou sem capuz, quentes para o ano inteiro.",
+  "sublinhado": "costura",
+  "vantagens": [
+   "Impressão ou bordado",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Tamanhos do XS ao 3XL"
+  ],
+  "filtros": {
+   "cor": true
+  },
+  "duvidas": [
+   {
+    "p": "Impressão ou bordado?",
+    "r": "A impressão é melhor para logótipos grandes e com muitas cores; o bordado, para o peito e para durar anos."
+   }
+  ],
+  "h1": {
+   "antes": "Sweatshirts",
+   "destaque": "personalizadas"
+  }
+ },
+ {
+  "slug": "casacos",
+  "nome": "Casacos",
+  "grupo": "Têxtil",
+  "icone": "casaco",
+  "singular": "casaco",
+  "artigo": "o",
+  "desenhos": [
+   "softshell",
+   "polar",
+   "colete"
+  ],
+  "coresCapa": [
+   "#151A33",
+   "#CB1964",
+   "#FFC83D"
+  ],
+  "frase": "Softshell, polar e coletes para o trabalho e para o frio.",
+  "sublinhado": "costura",
+  "vantagens": [
+   "Bordado no peito incluído",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Tamanhos do S ao 3XL"
+  ],
+  "filtros": {
+   "cor": true
+  },
+  "duvidas": [
+   {
+    "p": "Os casacos são impermeáveis?",
+    "r": "O softshell repele a água e corta o vento; o polar é para o frio seco. A ficha de cada modelo diz o tecido."
+   }
+  ],
+  "h1": {
+   "antes": "Casacos e coletes",
+   "destaque": "bordados"
+  }
+ },
+ {
+  "slug": "acessorios",
+  "nome": "Acessórios",
+  "grupo": "Acessórios",
+  "icone": "bone",
+  "singular": "acessório",
+  "artigo": "o",
+  "desenhos": [
+   "bone",
+   "saco-tote",
+   "lanyard"
+  ],
+  "coresCapa": [
+   "#CB1964",
+   "#EFE8D8",
+   "#0A8FC2"
+  ],
+  "frase": "Bonés, chapéus, sacos e fitas de pescoço.",
+  "sublinhado": "marcador",
+  "vantagens": [
+   "Personalização incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Ideais para eventos"
+  ],
+  "filtros": {
+   "cor": true,
+   "tipo": true
+  },
+  "duvidas": [
+   {
+    "p": "Fazem fitas de pescoço com fecho de segurança?",
+    "r": "Sim: todas as fitas de pescoço levam fecho de segurança no pescoço."
+   }
+  ],
+  "h1": {
+   "antes": "Bonés, sacos e fitas",
+   "destaque": "com a sua marca"
+  }
+ },
+ {
+  "slug": "garrafas",
+  "nome": "Garrafas",
+  "grupo": "Garrafas e canecas",
+  "icone": "garrafa",
+  "singular": "garrafa",
+  "artigo": "a",
+  "desenhos": [
+   "garrafa-termica",
+   "garrafa-aluminio",
+   "copo-termico"
+  ],
+  "coresCapa": [
+   "#0A8FC2",
+   "#CB1964",
+   "#151A33"
+  ],
+  "frase": "Alumínio, térmicas e copos, gravados a laser.",
+  "sublinhado": "onda",
+  "vantagens": [
+   "Gravação a laser incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Reutilizáveis"
+  ],
+  "filtros": {
+   "cor": true,
+   "tipo": true
+  },
+  "duvidas": [
+   {
+    "p": "Quanto tempo mantêm a temperatura?",
+    "r": "As térmicas mantêm as bebidas frias até 24 horas e quentes até 12. As de alumínio não são térmicas."
+   },
+   {
+    "p": "Podem ir à máquina de lavar loiça?",
+    "r": "Recomendamos lavar à mão: dura mais a cor e a gravação."
+   }
+  ],
+  "h1": {
+   "antes": "Garrafas e copos",
+   "destaque": "gravados"
+  }
+ },
+ {
+  "slug": "canecas",
+  "nome": "Canecas",
+  "grupo": "Garrafas e canecas",
+  "icone": "caneca",
+  "singular": "caneca",
+  "artigo": "a",
+  "desenhos": [
+   "caneca",
+   "caneca-esmaltada",
+   "caneca"
+  ],
+  "coresCapa": [
+   "#FFC83D",
+   "#151A33",
+   "#CB1964"
+  ],
+  "frase": "Cerâmica e esmaltadas, impressas a cores.",
+  "sublinhado": "vapor",
+  "vantagens": [
+   "Impressão a cores incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de decidir",
+   "Embalagem individual"
+  ],
+  "filtros": {
+   "cor": true
+  },
+  "duvidas": [
+   {
+    "p": "A impressão sai na máquina de lavar loiça?",
+    "r": "A impressão por sublimação aguenta a máquina; nas esmaltadas recomendamos lavar à mão."
+   }
+  ],
+  "h1": {
+   "antes": "Canecas",
+   "destaque": "personalizadas"
+  }
+ },
+ {
+  "slug": "impressao",
+  "nome": "Impressão",
+  "grupo": "Impressão",
+  "icone": "impressao",
+  "singular": "trabalho",
+  "artigo": "o",
+  "desenhos": [
+   "cartoes",
+   "flyer",
+   "autocolantes"
+  ],
+  "coresCapa": [
+   "#151A33",
+   "#FFC83D",
+   "#CB1964"
+  ],
+  "frase": "Cartões, flyers, autocolantes, cadernos e roll-ups.",
+  "sublinhado": "marcador",
+  "vantagens": [
+   "Revisão do ficheiro incluída",
+   "Portes incluídos no continente",
+   "Maquete antes de imprimir",
+   "Prova de cor antes de imprimir"
+  ],
+  "filtros": {
+   "tipo": true
+  },
+  "duvidas": [
+   {
+    "p": "Têm de ser os vossos designers a fazer o ficheiro?",
+    "r": "Não. Pode enviar o seu ficheiro pronto; nós revemos sem custo. Se precisar, também o desenhamos."
+   },
+   {
+    "p": "Que formato de ficheiro devo enviar?",
+    "r": "PDF em alta resolução, com 3 mm de sangria. Se não souber o que isto é, envie o que tem e tratamos do resto."
+   }
+  ],
+  "h1": {
+   "antes": "Impressão",
+   "destaque": "com a sua marca"
+  }
+ }
+]
