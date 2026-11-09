@@ -147,7 +147,7 @@ export function inicio() {
   <div class="contentor heroi__grelha">
     <div class="heroi__texto">
       <p class="etiqueta">Brindes · Têxtil · Impressão</p>
-      <h1 class="titulo titulo--heroi"><span class="so-leitor">Brindes e fardas com o seu logótipo.</span><span aria-hidden="true">${titulo({ antes: 'Brindes e fardas', destaque: 'com o seu logótipo.', nivel: 1 }).replace(/^<h1 class="titulo">|<\/h1>$/g, '')}</span></h1>
+      <h1 class="titulo titulo--heroi visivel"><span class="so-leitor">Brindes e fardas com o seu logótipo.</span><span aria-hidden="true">${titulo({ antes: 'Brindes e fardas', destaque: 'com o seu logótipo.', nivel: 1 }).replace(/^<h1 class="titulo">|<\/h1>$/g, '')}</span></h1>
       <p class="lead heroi__lead">Desde 10 unidades. Maquete grátis antes de pagar.</p>
       <div class="accoes">
         <a class="botao botao--principal vivo" href="${u('produtos/')}">Ver produtos ${icone('seta', { classe: 'seta' })}</a>
